@@ -1,0 +1,13 @@
+.primary{
+    color:orange
+}
+.secondary{
+    color: blue;
+}
+.font-xl{
+    font-size: 5dvh
+}
+.error{
+    color:red;
+    font-size: 5dvh;
+}
